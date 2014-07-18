@@ -2,7 +2,7 @@
     "name": "attr-anim",
     "comName":"AttrAnim",
     "version": "1.0",
-    "desc": "",
+    "desc": "attr-anim module for kissy5.0.0 which support scrollLeft/scrollTop animitation in kissy5.0.0",
     "tag":"kissy,anim,scrollTop,scrollLeft",
     "githubName":"xingqiba0418",
     "author": {
